@@ -1,7 +1,7 @@
 #WELCOME!!!!!
 
 # 💫 About Me:
-I'm currently working on artificial intelligence <br>Recently trying cybersecurity in my 1 month training<br>
+I'm Currently Working On Artificial Intelligence <br>Recently Tried CyberSecurity During 1-Month Training<br>
 
 
 ## 🌐 Socials:
