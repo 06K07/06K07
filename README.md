@@ -1,5 +1,5 @@
-WELCOME!!!!!
-[ReadMe.md](https://github.com/user-attachments/files/23342467/ReadMe.md)
+#WELCOME!!!!!
+
 # 💫 About Me:
 I'm currently working on artificial intelligence <br>Recently trying cybersecurity in my 1 month training<br>
 
